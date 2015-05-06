@@ -727,7 +727,7 @@ Page Header
   height: 75px;
 }
 .page-header .page-header-top .page-logo .logo-default {
-  margin: 29.5px 0 0 0;
+  margin: 12px 0 0 0;
 }
 .page-header .page-header-top .top-menu {
   margin: 13px 0 0;
@@ -747,6 +747,10 @@ Page Header
   /* User */
   /* Language */
   /* Dark version */
+}
+
+#logo-front {
+    width: 150px;
 }
 .page-header .page-header-top .top-menu .navbar-nav > li.dropdown {
   margin: 0;
