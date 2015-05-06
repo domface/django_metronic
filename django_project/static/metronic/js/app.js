@@ -125,7 +125,7 @@ MetronicApp.controller('FooterController', ['$scope', function($scope) {
     });
 }]);
 
-/* Setup Rounting For All Pages */
+/* Setup Routing For All Pages */
 MetronicApp.config(['$stateProvider', '$urlRouterProvider', function($stateProvider, $urlRouterProvider) {
 
     // Redirect any unmatched url
