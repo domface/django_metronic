@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f5943112-54ee-490b-a7a1-10a883c163e3" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/../README 2.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/metronic/admin/layout3/img/morado.png" afterPath="$PROJECT_DIR$/static/metronic/admin/layout3/img/morado.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/metronic/admin/layout2/css/custom.css" afterPath="$PROJECT_DIR$/static/metronic/admin/layout2/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/metronic/views/dashboard.html" afterPath="$PROJECT_DIR$/static/metronic/views/dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/metronic/tpl/header.html" afterPath="$PROJECT_DIR$/static/metronic/tpl/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/metronic/admin/layout2/css/layout.css" afterPath="$PROJECT_DIR$/static/metronic/admin/layout2/css/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/metronic/admin/layout3/css/layout.css" afterPath="$PROJECT_DIR$/static/metronic/admin/layout3/css/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="django_project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -107,7 +101,7 @@
           <file leaf-file-name="advanced.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/static/metronic/views/datatables/advanced.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="48735">
+                <state vertical-scroll-proportion="-5.0" vertical-offset="1095" max-vertical-offset="48735">
                   <caret line="81" column="56" selection-start-line="81" selection-start-column="56" selection-end-line="81" selection-end-column="56" />
                   <folding />
                 </state>
@@ -117,11 +111,9 @@
           <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/static/metronic/tpl/header.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.33519554" vertical-offset="30" max-vertical-offset="5640">
-                  <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-                  <folding>
-                    <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                  </folding>
+                <state vertical-scroll-proportion="0.12569833" vertical-offset="30" max-vertical-offset="5640">
+                  <caret line="8" column="133" selection-start-line="8" selection-start-column="133" selection-end-line="8" selection-end-column="133" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -129,7 +121,7 @@
           <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/static/metronic/admin/layout2/css/custom.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="420">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
                   <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
                   <folding />
                 </state>
@@ -1454,26 +1446,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/metronic/views/datatables/advanced.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="48735">
-          <caret line="81" column="56" selection-start-line="81" selection-start-column="56" selection-end-line="81" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/metronic/admin/layout3/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="10758" max-vertical-offset="28560">
           <caret line="751" column="0" selection-start-line="751" selection-start-column="0" selection-end-line="753" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/metronic/admin/layout2/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1494,13 +1470,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/metronic/admin/layout2/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/metronic/views/datatables/advanced.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="1095" max-vertical-offset="48735">
+          <caret line="81" column="56" selection-start-line="81" selection-start-column="56" selection-end-line="81" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/metronic/tpl/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33519554" vertical-offset="30" max-vertical-offset="5640">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.12569833" vertical-offset="30" max-vertical-offset="5640">
+          <caret line="8" column="133" selection-start-line="8" selection-start-column="133" selection-end-line="8" selection-end-column="133" />
+          <folding />
         </state>
       </provider>
     </entry>
